@@ -39,4 +39,4 @@ You can install these dependencies using `pip`:
 ```bash
 pip install numpy pandas scikit-learn matplotlib
 
-![Diabetes Prediction Image](/diabetes.png)
+![Diabetes Prediction Image](diabetes.png)
