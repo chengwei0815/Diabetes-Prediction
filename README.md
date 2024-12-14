@@ -25,6 +25,9 @@ This project involves building a machine learning model to predict whether a per
 ### 5. **Prediction**
    - Once the model is trained, it will be used to predict whether a new patient is diabetic or non-diabetic based on their medical data.
 
+![Diabetes Prediction Image](diabetes.png)
+
+
 ## Prerequisites
 
 Before running the code, make sure you have the following libraries installed:
@@ -39,4 +42,3 @@ You can install these dependencies using `pip`:
 ```bash
 pip install numpy pandas scikit-learn matplotlib
 
-![Diabetes Prediction Image](diabetes.png)
